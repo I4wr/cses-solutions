@@ -8,13 +8,17 @@ The goal of this repository is to build a consistent habit: solve problems and p
 
 ```text
 .
-├── introductory-problems/
-│   ├── increasing-array.cpp
-│   ├── missing-number.cpp
-│   ├── number-spiral.cpp
-│   ├── permutations.cpp
-│   ├── repetitions.cpp
-│   └── weird-algorithm.cpp
+|-- introductory-problems/
+|   |-- increasing-array.cpp
+|   |-- missing-number.cpp
+|   |-- number-spiral.cpp
+|   |-- permutations.cpp
+|   |-- repetitions.cpp
+|   |-- two-knights.cpp
+|   `-- weird-algorithm.cpp
+`-- notes/
+    `-- introductory-problems/
+        `-- two-knights.md
 ```
 
 ## Progress
@@ -27,3 +31,4 @@ The goal of this repository is to build a consistent habit: solve problems and p
 - [x] Increasing Array - solution added
 - [x] Permutations - solution added
 - [x] Number Spiral - solution added
+- [x] Two Knights - solution and notes added
