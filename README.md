@@ -15,7 +15,11 @@ The goal of this repository is to build a consistent habit: solve problems and p
 |   |-- permutations.cpp
 |   |-- repetitions.cpp
 |   |-- two-knights.cpp
+|   |-- two-sets.cpp
 |   `-- weird-algorithm.cpp
+|-- sorting-and-searching/
+|   |-- apartments.cpp
+|   `-- distinct-numbers.cpp
 `-- notes/
     `-- introductory-problems/
         `-- two-knights.md
@@ -32,3 +36,9 @@ The goal of this repository is to build a consistent habit: solve problems and p
 - [x] Permutations - solution added
 - [x] Number Spiral - solution added
 - [x] Two Knights - solution and notes added
+- [x] Two Sets - solution added
+
+### Sorting and Searching
+
+- [x] Distinct Numbers - solution added
+- [x] Apartments - solution added
