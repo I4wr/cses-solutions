@@ -19,7 +19,9 @@ The goal of this repository is to build a consistent habit: solve problems and p
 |   `-- weird-algorithm.cpp
 |-- sorting-and-searching/
 |   |-- apartments.cpp
-|   `-- distinct-numbers.cpp
+|   |-- concert-tickets.cpp
+|   |-- distinct-numbers.cpp
+|   `-- ferris-wheel.cpp
 `-- notes/
     `-- introductory-problems/
         `-- two-knights.md
@@ -42,3 +44,5 @@ The goal of this repository is to build a consistent habit: solve problems and p
 
 - [x] Distinct Numbers - solution added
 - [x] Apartments - solution added
+- [x] Concert Tickets - solution added
+- [x] Ferris Wheel - solution added
